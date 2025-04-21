@@ -27,7 +27,8 @@ KEY FEATURES
 •	Shopping Information: Item Purchased, Category, Purchase Amount, size, Color, Season
 •	Customer Behavior: Review rating, Subscription Status, Previous purchase, frequency of purchase.
 •	Payment and Logistics: Payment Method, Preferred payment method, shipping type, discount applied, promo code used.
-## SAMPLE DATA 
+## SAMPLE DATA ![online sample data](https://github.com/user-attachments/assets/4ef6f4d0-7e19-444b-9882-feb43744e6f8)
+
 
 ## KEY QUESTIONS
 1.	Which product category is most popular across different age groups and gender?
