@@ -28,8 +28,7 @@ The analysis is based on a dataset containing customer interactions from an onli
 #### •	Customer Behavior: Review rating, Subscription Status, Previous purchase, frequency of purchase.
 #### •	Payment and Logistics: Payment Method, Preferred payment method, shipping type, discount applied, promo code used.
 ## SAMPLE DATA ![online sample data](https://github.com/user-attachments/assets/4ef6f4d0-7e19-444b-9882-feb43744e6f8)
-
-
+## DASHBOARD https://github.com/dennismogaka/ONLINE-SHOPPING-ANALYSIS/blob/main/ONLINE%20SHOPPING%20DASHBOARD.pbix
 ## KEY QUESTIONS
 1.	Which product category is most popular across different age groups and gender?
 2.	Do discounts and promo codes lead to higher purchase amounts?
