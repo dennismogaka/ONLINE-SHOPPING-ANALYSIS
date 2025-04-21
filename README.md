@@ -19,7 +19,7 @@ The analysis is based on a dataset containing customer interactions from an onli
 4.	Analyze payment method preferences and their influence on purchase value.
 5.	Recommend data-driven strategies to boost engagement and revenue and for improving online sales.
 ## DATASET DESCRIPTION
-### SOURCE: 
+### SOURCE: https://github.com/dennismogaka/ONLINE-SHOPPING-ANALYSIS/blob/main/online%20shopping%20data.xlsx
 ### ROWS:3900
 ### COLUMNS: 19
 ### KEY FEATURES
