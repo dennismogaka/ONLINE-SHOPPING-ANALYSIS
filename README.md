@@ -46,3 +46,5 @@ KEY FEATURES
 	Offer personalized promos to high-value repeat customers using preferred items and sizes.
 	Improve mobile UX for categories popular with younger age groups (18-24).
 	Use review ratings and purchase history to recommend new products and upsell.
+![ONLINE SHOPPING ANALYSIS](https://github.com/user-attachments/assets/7f6d7b7b-5c73-4985-80e8-32a45ddf381c)
+
