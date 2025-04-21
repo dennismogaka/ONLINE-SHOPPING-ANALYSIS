@@ -19,14 +19,14 @@ The analysis is based on a dataset containing customer interactions from an onli
 4.	Analyze payment method preferences and their influence on purchase value.
 5.	Recommend data-driven strategies to boost engagement and revenue and for improving online sales.
 ## DATASET DESCRIPTION
-SOURCE: 
-ROWS:3900
-COLUMNS: 19
-KEY FEATURES
-•	Customer Details: Customer_ID, Age, Gender, Location
-•	Shopping Information: Item Purchased, Category, Purchase Amount, size, Color, Season
-•	Customer Behavior: Review rating, Subscription Status, Previous purchase, frequency of purchase.
-•	Payment and Logistics: Payment Method, Preferred payment method, shipping type, discount applied, promo code used.
+### SOURCE: 
+### ROWS:3900
+### COLUMNS: 19
+### KEY FEATURES
+#### •	Customer Details: Customer_ID, Age, Gender, Location
+#### •	Shopping Information: Item Purchased, Category, Purchase Amount, size, Color, Season
+#### •	Customer Behavior: Review rating, Subscription Status, Previous purchase, frequency of purchase.
+#### •	Payment and Logistics: Payment Method, Preferred payment method, shipping type, discount applied, promo code used.
 ## SAMPLE DATA ![online sample data](https://github.com/user-attachments/assets/4ef6f4d0-7e19-444b-9882-feb43744e6f8)
 
 
