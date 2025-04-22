@@ -36,15 +36,15 @@ The analysis is based on a dataset containing customer interactions from an onli
 4.	What are the most preferred payment and shipping methods?
 5.	Are there any seasonal trends in item purchases?
 ## KEY FINDINGS
-•	Females aged 25-34 made the most purchases particularly in clothing.
-•	Customers using promo codes spent on average 18% more than those who didn’t.
-•	Subscribers have a 25% higher purchase frequency and a higher average basket size.
-•	Credit cards were the most commonly used payment method.
-•	Purchases spiked during the winter season with clothing category and accessories performing best.
+### •	Females aged 25-34 made the most purchases particularly in clothing.
+### •	Customers using promo codes spent on average 18% more than those who didn’t.
+### •	Subscribers have a 25% higher purchase frequency and a higher average basket size.
+### •	Credit cards were the most commonly used payment method.
+### •	Purchases spiked during the winter season with clothing category and accessories performing best.
 ## RECOMMENDATIONS
-	Target subscribers with exclusive seasonal deals and loyalty perks.
-	Offer personalized promos to high-value repeat customers using preferred items and sizes.
-	Improve mobile UX for categories popular with younger age groups (18-24).
-	Use review ratings and purchase history to recommend new products and upsell.
+### 	Target subscribers with exclusive seasonal deals and loyalty perks.
+### 	Offer personalized promos to high-value repeat customers using preferred items and sizes.
+### 	Improve mobile UX for categories popular with younger age groups (18-24).
+### 	Use review ratings and purchase history to recommend new products and upsell.
 ![ONLINE SHOPPING ANALYSIS](https://github.com/user-attachments/assets/7f6d7b7b-5c73-4985-80e8-32a45ddf381c)
 
