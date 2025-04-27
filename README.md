@@ -1,5 +1,7 @@
 # ONLINE-SHOPPING-ANALYSIS
+
 This project analyzes online shopping data to uncover trends in customer behavior, product performance, and sales patterns. It provides insights to improve marketing, user experience, and decision-making in the e-commerce space.
+
 ###  Table of Contents
 
 - [ Project Overview](#project-overview)
@@ -9,21 +11,31 @@ This project analyzes online shopping data to uncover trends in customer behavio
 - [ Key Questions](#key-questions)
 - [ Key Findings](#key-findings)
 - [ Recommendations](#recommendations)
+  
 ### PROJECT OVERVIEW
+
 This project explores online shopping behavior to identify trends, patterns and insights that can help this business improve customer experience, marketing strategies and sales conversion.
 The analysis is based on a dataset containing customer interactions from an online store.
+
 ### PROJECT OBJECTIVES
+
 1.	Understand purchasing trends by age, gender, season and location.
+   
 2.	Identify impact of discounts and promo codes on buying decisions.
+   
 3.	Explore the relationship between subscription status and shopping frequency.
+   
 4.	Analyze payment method preferences and their influence on purchase value.
+   
 5.	Recommend data-driven strategies to boost engagement and revenue and for improving online sales.
+    
 ### DATASET DESCRIPTION
- SOURCE: https://github.com/dennismogaka/ONLINE-SHOPPING-ANALYSIS/blob/main/online%20shopping%20data.xlsx
+
+ **SOURCE:** https://github.com/dennismogaka/ONLINE-SHOPPING-ANALYSIS/blob/main/online%20shopping%20data.xlsx
  
- ROWS:3900
+ **ROWS:** 3900
  
- COLUMNS: 19
+ **COLUMNS:** 19
  
 ##### KEY FEATURES
  •	Customer Details: Customer_ID, Age, Gender, Location
