@@ -15,6 +15,7 @@ This project analyzes online shopping data to uncover trends in customer behavio
 ### PROJECT OVERVIEW
 
 This project explores online shopping behavior to identify trends, patterns and insights that can help this business improve customer experience, marketing strategies and sales conversion.
+
 The analysis is based on a dataset containing customer interactions from an online store.
 
 ### PROJECT OBJECTIVES
@@ -81,6 +82,8 @@ The analysis is based on a dataset containing customer interactions from an onli
  	Improve mobile UX for categories popular with younger age groups (18-24).
  
  	Use review ratings and purchase history to recommend new products and upsell.
+
+ ##### **DASHBOARD**
  
 ![ONLINE SHOPPING ANALYSIS](https://github.com/user-attachments/assets/7f6d7b7b-5c73-4985-80e8-32a45ddf381c)
 
