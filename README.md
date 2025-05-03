@@ -1,16 +1,18 @@
 # ONLINE-SHOPPING-ANALYSIS
 
 This project analyzes online shopping data to uncover trends in customer behavior, product performance, and sales patterns. It provides insights to improve marketing, user experience, and decision-making in the e-commerce space.
+<h2> Table of Contents</h2>
+<ol>
+  <li><a href="#project-overview">Project Overview</a></li>
+  <li><a href="#project-objectives">Project Objectives</a></li>
+  <li><a href="#dataset-description">Dataset Description</a></li>
+  <li><a href="#sample-data">Sample Data</a></li>
+  <li><a href="#dashboard">Dashboard</a></li>
+  <li><a href="#key-questions">Key Questions</a></li>
+  <li><a href="#key-findings">Key Findings</a></li>
+  <li><a href="#recommendations">Recommendations</a></li>
+</ol>
 
-###  Table of Contents
-
-- [ Project Overview](#project-overview)
-- [ Project Objectives](#project-objectives)
-- [ Dataset Description](#️dataset-description)
-- [ Sample Data](#sample-data)
-- [ Key Questions](#key-questions)
-- [ Key Findings](#key-findings)
-- [ Recommendations](#recommendations)
   
 ### PROJECT OVERVIEW
 
