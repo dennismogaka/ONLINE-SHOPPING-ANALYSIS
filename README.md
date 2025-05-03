@@ -41,6 +41,7 @@ The analysis is based on a dataset containing customer interactions from an onli
  **COLUMNS:** 19
  
 ##### KEY FEATURES
+
  •	Customer Details: Customer_ID, Age, Gender, Location
  
  •	Shopping Information: Item Purchased, Category, Purchase Amount, size, Color, Season
@@ -49,9 +50,13 @@ The analysis is based on a dataset containing customer interactions from an onli
  
  •	Payment and Logistics: Payment Method, Preferred payment method, shipping type, discount applied, promo code used.
  
-**SAMPLE DATA** ![online sample data](https://github.com/user-attachments/assets/4ef6f4d0-7e19-444b-9882-feb43744e6f8)
+**SAMPLE DATA** 
 
-**DASHBOARD** [DASHBOARD](https://github.com/dennismogaka/ONLINE-SHOPPING-ANALYSIS/blob/main/ONLINE%20SHOPPING%20DASHBOARD.pbix)
+![online sample data](https://github.com/user-attachments/assets/4ef6f4d0-7e19-444b-9882-feb43744e6f8)
+
+**DASHBOARD** 
+
+[DASHBOARD](https://github.com/dennismogaka/ONLINE-SHOPPING-ANALYSIS/blob/main/ONLINE%20SHOPPING%20DASHBOARD.pbix)
 
 ##### KEY QUESTIONS
 
