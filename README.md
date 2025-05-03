@@ -31,7 +31,7 @@ The analysis is based on a dataset containing customer interactions from an onli
     
 ### DATASET DESCRIPTION
 
- **SOURCE:** https://github.com/dennismogaka/ONLINE-SHOPPING-ANALYSIS/blob/main/online%20shopping%20data.xlsx
+ **SOURCE:** [DATA](https://github.com/dennismogaka/ONLINE-SHOPPING-ANALYSIS/blob/main/online%20shopping%20data.xlsx)
  
  **ROWS:** 3900
  
@@ -48,7 +48,7 @@ The analysis is based on a dataset containing customer interactions from an onli
  
 **SAMPLE DATA** ![online sample data](https://github.com/user-attachments/assets/4ef6f4d0-7e19-444b-9882-feb43744e6f8)
 
-**DASHBOARD** https://github.com/dennismogaka/ONLINE-SHOPPING-ANALYSIS/blob/main/ONLINE%20SHOPPING%20DASHBOARD.pbix
+**DASHBOARD** [DASHBOARD](https://github.com/dennismogaka/ONLINE-SHOPPING-ANALYSIS/blob/main/ONLINE%20SHOPPING%20DASHBOARD.pbix)
 
 ##### KEY QUESTIONS
 
