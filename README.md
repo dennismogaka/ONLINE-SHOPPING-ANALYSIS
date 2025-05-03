@@ -54,14 +54,24 @@ The analysis is based on a dataset containing customer interactions from an onli
 ##### KEY QUESTIONS
 
 1.	Which product category is most popular across different age groups and gender?
+
+![onlineR6](https://github.com/user-attachments/assets/cd42061f-0a89-4589-84da-e2a9d4ec823a)
    
 2.	Do discounts and promo codes lead to higher purchase amounts?
-   
-3.	How does subscription status affect customer loyalty and frequency?
-   
+
+![onlineR2](https://github.com/user-attachments/assets/2e619df1-27d9-4c37-a959-f9173c648139)
+ 
+4.	How does subscription status affect customer loyalty and frequency?
+
+![onlineR1](https://github.com/user-attachments/assets/67d8a5d3-ecd3-4b2a-ac2f-3f4d9f798c83)
+ 
 4.	What are the most preferred payment and shipping methods?
+
+![onlineR4](https://github.com/user-attachments/assets/9b52e199-30fb-4025-8c54-209d93d65619)
    
 5.	Are there any seasonal trends in item purchases?
+
+![onlineR3](https://github.com/user-attachments/assets/af2e24a1-ed67-4d31-887a-681021ce3bb6)
     
 ##### KEY FINDINGS
  •	Females aged 25-34 made the most purchases particularly in clothing.
